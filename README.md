@@ -52,4 +52,3 @@
 - [ ] [Promise的队列与setTimeout的队列有何关联？](https://www.zhihu.com/question/36972010)
 - [ ] [8.1.4 Event loops](https://html.spec.whatwg.org/multipage/webappapis.html#event-loop)
 - [ ] [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
-- [ ]
