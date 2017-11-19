@@ -55,3 +55,7 @@
 - [ ] [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [ ] [Use a Render Prop!](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 - [ ] [Under-the-hood-ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
+- [x] [Redux isn't slow, you're just doing it wrong - An optimization guide](http://reactrocket.com/post/react-redux-optimization/)
+- [x] [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+- [ ] [Practical Redux, Part 6: Connected Lists, Forms, and Performance](http://blog.isquaredsoftware.com/2017/01/practical-redux-part-6-connected-lists-forms-and-performance/)
+- [ ] [Redux recipes](https://redux.js.org/docs/recipes/)
