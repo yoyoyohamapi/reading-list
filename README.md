@@ -75,10 +75,12 @@
 - [x] [callbag Creating your own utilities](https://github.com/callbag/callbag/blob/master/getting-started.md)
 - [ ] [浏览器加载 CommonJS 模块的原理与实现](http://www.ruanyifeng.com/blog/2015/05/commonjs-in-browser.html)
 - [ ] [Module 的语法](http://es6.ruanyifeng.com/#docs/module)
-- [ ] [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
-- [ ] [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+- [x] [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
+- [x] [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 - [ ] [ROCKET - A RUST GAME RUNNING ON WASM](https://aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm/)
 
 
 - [x] [Transducers Explained: Part 1](http://simplectic.com/blog/2014/transducers-explained-1/)
 
+
+- [ ] [Composing Software：Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
